@@ -13,3 +13,20 @@ Requisitos:
 
 - SQLite ODBC Driver for Win64
 - Arquivo Excel com as colunas [CODIGOPRODUTO, VALOR, PRODUTO](Utilizar codigoprodutos.xlsx presente no repositório)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Sales Registration System
+
+This is a simple sales control system developed in Python, designed to record sales in an Excel file for easy data analysis. Developed for a local motorcycle club.
+
+Features:
+
+Sales Registration: The system allows for the registration of product or service sales, the products sold, and the total sale value. Sales are automatically recorded in a database.
+
+Excel File Generation: Each sale is added to a database that can be exported to an Excel file, serving as a detailed record of all transactions. This facilitates data analysis and tracking of sales over time.
+
+Requirements:
+
+SQLite ODBC Driver for Win64
+Excel file with columns [CODIGOPRODUTO, VALOR, PRODUTO] (Use the codigoprodutos.xlsx file present in the repository)
